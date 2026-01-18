@@ -6,7 +6,7 @@ class MinThreeNum{
 		int m=sc.nextInt();
 		System.out.print("Enter Second Number: ");
 		int n=sc.nextInt();
-		System.out.print("Enter Second Number: ");
+		System.out.print("Enter Third Number: ");
 		int l=sc.nextInt();
 		System.out.println("Choice Oparation:Min , Max ");
 		String S=sc.next();
